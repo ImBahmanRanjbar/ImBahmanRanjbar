@@ -10,9 +10,8 @@
 -----------------
 
 
-* ✉️  You can contact me at
-* <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-* [imbahmanranjbar@gmail.com]
+* ✉️  You can contact me [imbahmanranjbar@gmail.com]
+
 
 
 ### Skills
