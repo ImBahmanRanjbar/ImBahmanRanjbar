@@ -2,11 +2,18 @@
 
 <h3 align="center">A .NET Programmer</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 -----------------
 
 
-* ✉️  You can contact me at [imbahmanranjbar@gmail.com](mailto:imbahmanranjbar@gmail.com)
+* ✉️  You can contact me at
+* <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+* [imbahmanranjbar@gmail.com]
+
 
 ### Skills
 
