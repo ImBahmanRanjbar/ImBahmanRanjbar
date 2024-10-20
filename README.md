@@ -5,18 +5,7 @@
 <div id="header" align="center">
     <img src="https://64.media.tumblr.com/cdadc96caafe6ca605fc34b52f97a1b4/tumblr_mk0s45n8R81rmcgo1o1_250.gifv" />
 </div>
-
-
------------------
-
-
-* ✉️  You can contact me [imbahmanranjbar@gmail.com]
-
-
-
-### Skills
-
-
+<h3 align="left"> Skills</h3>
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
@@ -53,10 +42,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
             width="36" height="36" alt="XD" /></a>
     <a </p>
-
-
-        ### Socials
-
+        <h3 align="left"> Socials</h3>
         <p align="left"> <a href="https://www.github.com/imbahmanranjbar" target="_blank" rel="noreferrer">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
@@ -66,7 +52,17 @@
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
                         width="32" height="32" />
                 </picture>
-            </a> <a href="https://www.instagram.com/imbahmanranjbar/" target="_blank" rel="noreferrer">
+            </a> <a href="imbahmanranjbar@gmail.com" target="_blank" rel="noreferrer">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)"
+                        srcset="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" />
+                    <source media="(prefers-color-scheme: light)"
+                        srcset="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" />
+                    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="32"
+                        height="32" />
+                </picture>
+            </a>
+            <a href="https://www.instagram.com/imbahmanranjbar/" target="_blank" rel="noreferrer">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
                         srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
@@ -75,22 +71,14 @@
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
                         width="32" height="32" />
                 </picture>
-            </a></p>
-
-        ### Badges
-
-        <b>My GitHub Stats</b>
-
+            </a>
+        </p>
+        <h3 align="left"> <b>My Github Stats</b></h3>
         <a href="http://www.github.com/imbahmanranjbar"><img
                 src="https://github-readme-stats.vercel.app/api?username=imbahmanranjbar&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true"
                 alt="imbahmanranjbar's GitHub stats" /></a>
-
         <a href="http://www.github.com/imbahmanranjbar"><img
                 src="https://github-readme-streak-stats.herokuapp.com/?user=imbahmanranjbar&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
         <p><img align="left"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=imbahmanranjbar&show_icons=true&locale=en&layout=compact"
                 alt="imbahmanranjbar" /></p>
-        <div id="fotter" align="left">
-            <img
-                src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3psbDRkeGRjeWRnNXpxczA3cmNjeXgzNzZ0ejF3ZWc4cndjYWRoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.webp" />
-        </div>
