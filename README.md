@@ -52,15 +52,6 @@
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
                         width="32" height="32" />
                 </picture>
-            </a> <a href="imbahmanranjbar@gmail.com" target="_blank" rel="noreferrer">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)"
-                        srcset="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" />
-                    <source media="(prefers-color-scheme: light)"
-                        srcset="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" />
-                    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="32"
-                        height="32" />
-                </picture>
             </a>
             <a href="https://www.instagram.com/imbahmanranjbar/" target="_blank" rel="noreferrer">
                 <picture>
