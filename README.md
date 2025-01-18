@@ -41,7 +41,7 @@
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
             width="36" height="36" alt="XD" /></a>
-    <a </p>
+    
       
         <h3 align="left"> <b>My Github Stats</b></h3>
         <a href="http://www.github.com/imbahmanranjbar"><img
