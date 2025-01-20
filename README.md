@@ -9,39 +9,39 @@
 <p style="text-align: left;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
-            width="36" height="36" alt="C#" /></a>
+            width="40" height="40" alt="C#" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
-            width="36" height="36" alt="visual-studio" /></a>
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+            width="40" height="40" alt="visual-studio" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
-            src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="36"
-            height="36" alt=".NET" /></a>
+            src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="40"
+            height="40" alt=".NET" /></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-            width="36" height="36" alt="VS Code" /></a>
+            width="40" height="40" alt="VS Code" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-            width="36" height="36" alt="HTML5" /></a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
+            width="40" height="40" alt="HTML5" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-            width="36" height="36" alt="MySQL" /></a>
+            width="40" height="40" alt="MySQL" /></a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg"
-            width="36" height="36" alt="Photoshop" /></a>
+            width="40" height="40" alt="Photoshop" /></a>
     <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg"
-            width="36" height="36" alt="Illustrator" /></a>
+            width="40" height="40" alt="Illustrator" /></a>
     <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg"
-            width="36" height="36" alt="After Effects" /></a>
+            width="40" height="40" alt="After Effects" /></a>
     <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg"
-            width="36" height="36" alt="Premiere Pro" /></a>
+            width="40" height="40" alt="Premiere Pro" /></a>
     <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
-            width="36" height="36" alt="XD" /></a>
+            width="40" height="40" alt="XD" /></a>
 </p>
     </div>
     <div id="footer" align="center" style="text-align: center;">
